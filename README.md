@@ -1,4 +1,6 @@
 We won 3rd place in this hackathon.
+Written in Processing / Java
+
 
 ## Bakeoff Prompt:
 You will be given source code for a simple application that displays a 4x4 grid of square buttons. These light up one at a time; users must click the lit buttons as accurately and quickly as they can. Currently the application simply lets you click with the mouse. You mission is to devise a technique that facilitates clicking these buttons (every button must be clickable at any instant). Accuracy must be above 90% to be feasible. Time is the important measure. Open design challenge, so email me ideas you think might break the rules.
