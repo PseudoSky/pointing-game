@@ -1,6 +1,9 @@
 We won 3rd place in this hackathon.
 Written in Processing / Java
 
+![](https://github.com/PseudoSky/pointing-game/blob/master/preview/step1.png)
+
+
 
 ## Bakeoff Prompt:
 You will be given source code for a simple application that displays a 4x4 grid of square buttons. These light up one at a time; users must click the lit buttons as accurately and quickly as they can. Currently the application simply lets you click with the mouse. You mission is to devise a technique that facilitates clicking these buttons (every button must be clickable at any instant). Accuracy must be above 90% to be feasible. Time is the important measure. Open design challenge, so email me ideas you think might break the rules.
@@ -17,3 +20,30 @@ Our goal is to decrease time and increase the accuracy of the user when he/she c
 * make the boxes slightly bigger and decrease the gap of the boxes
 * the mouse is to move, and the space key is to click
 * light up the box red if it is double hit… preferencing the box?
+
+## Initial Target
+
+![](https://github.com/PseudoSky/pointing-game/blob/master/preview/step1.png)
+
+## Highlight with separable color
+
+![](https://github.com/PseudoSky/pointing-game/blob/master/preview/step2.png)
+
+## Subtle Background Shadow
+
+Behind the mouse (if not correct target) a grey target to give intuition about incorrect current selection without obstructing or obscuring the users vision.
+
+![](https://github.com/PseudoSky/pointing-game/blob/master/preview/shadow.png)
+
+
+## Double Tap Preview
+
+![](https://github.com/PseudoSky/pointing-game/blob/master/preview/dbl-tap1.png)
+
+## Double Tab Hover
+
+![](https://github.com/PseudoSky/pointing-game/blob/master/preview/dbl-tap2.png)
+
+### Double Tap Color Alternating
+
+![](https://github.com/PseudoSky/pointing-game/blob/master/preview/dbl-tap3.png)
