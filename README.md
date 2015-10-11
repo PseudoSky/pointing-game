@@ -38,6 +38,8 @@ Behind the mouse (if not correct target) a grey target to give intuition about i
 
 ## Double Tap Preview
 
+A complication that not many other teams thought of was that squares could be consecutively selected, and if they are, the user ordinarily would see no prompt to click again. The color would just stay on the same target. Our intuitive thought was to change the color of the second box so you know it's different. (My brain child) We chose to turn this potential problem into a strategic advantage by pre-emtively informing the user that the upcoming boxes will be the same so they can rapidly double tap the target. The consecutive box turns red before the situation occurs. This dramatically cut our overall time.
+
 ![](https://github.com/PseudoSky/pointing-game/blob/master/preview/dbl-tap1.png)
 
 ## Double Tab Hover
